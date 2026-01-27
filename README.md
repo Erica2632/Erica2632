@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou a Érica Cristina! 👋
 
-<!--
-**Erica2632/Erica2632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software e em transição de carreira para o desenvolvimento **Backend Java**.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Ferramentas
+* **Linguagens:** Java, SQL
+* **Banco de Dados:** MySQL
+* **Versionamento:** Git (Terminal/CLI) e GitHub
+* **Experiência:** Background Administrativo (Sankhya/Pipefy), Organização e Análise de Processos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projetos em Destaque
+* [**Agenda de Contatos - Java & MySQL**](https://github.com/Erica2632/meu-portifolio-java): Sistema CRUD com persistência de dados e padrão DAO.
+
+### 📫 Contato
+* **Email:** ericacristina2632@gmail.com
+* **LinkedIn:** [Link do seu perfil aqui]
