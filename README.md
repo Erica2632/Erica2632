@@ -13,4 +13,4 @@ Estudante de Engenharia de Software e em transição de carreira para o desenvol
 
 ### 📫 Contato
 * **Email:** ericacristina2632@gmail.com
-* **LinkedIn:** [Link do seu perfil aqui]
+* **LinkedIn:** https://www.linkedin.com/in/érica-cristina-514854303/
