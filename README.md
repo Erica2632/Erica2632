@@ -5,7 +5,7 @@ Estudante de Engenharia de Software e em transição de carreira para o desenvol
 ### 🛠️ Tecnologias e Ferramentas
 * **Linguagens:** Java, SQL
 * **Banco de Dados:** MySQL
-* **Versionamento:** Git (Terminal/CLI) e GitHub
+* **Versionamento:** Git e GitHub
 * **Experiência:** Background Administrativo (Sankhya/Pipefy), Organização e Análise de Processos.
 
 ### 📌 Projetos em Destaque
