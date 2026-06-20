@@ -1,4 +1,4 @@
-# Érica Cristina
+# Érica Cristina M do Nascimento
 
 **Desenvolvimento Backend | Java & Spring Boot**
 
